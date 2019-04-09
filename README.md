@@ -2,7 +2,7 @@
 
 About the app
 --------------------------------
-I used MAMP PRO to test the localhost while developing this php application. To download , [download link](https://www.google.com)
+I used MAMP PRO to test the localhost while developing this php application. To download , [download link](https://www.mamp.info/en/downloads)
 
 The Task
 --------
