@@ -1,4 +1,9 @@
 # codechallenge-moolahgo
+
+About the app
+--------------------------------
+I used MAMP PRO to test the localhost while developing this php application. To download , [download link](https://www.google.com)
+
 The Task
 --------
 The task is to write a PHP application with your own custom MVC architecture (Do not use CI, Laravel, Symphony, etc).
@@ -34,3 +39,8 @@ If mobile responsiveness, data binding, or ajax are new to you, below are some s
 - Twitter bootstrap (https://getbootstrap.com/) - for mobile responsive
 - Vue (https://vuejs.org/) or React (https://reactjs.org/) - for data binding, error checking and ajax
 - Jquery (https://jquery.com/) - for data binding, error checking and ajax.
+
+About the app
+--------------------------------
+
+
